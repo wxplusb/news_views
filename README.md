@@ -1,4 +1,4 @@
-## Решение задачи от РБК
+## Решение задачи от РБК "Предсказание тенденций в новостных статьях"
 
 ### Настройка окружения с помощью miniconda:
 
@@ -21,6 +21,13 @@ jupyter nbextension enable --py widgetsnbextension
   2. [1_parse.ipynb](1_parse.ipynb) - Запустить парсинг страниц или же взять готовый файл [data/pages_info.p](data/pages_info.p) 
   3. [2_prepro.ipynb](2_prepro.ipynb) - Предобработка и объединение данных
   4. [3_train_predict.ipynb](3_train_predict.ipynb) - Тренировка моделей и получение предсказаний.
+
+### Результат:
+
+```
+5 место
+```
+
 
 ### License
 [MIT license](LICENSE).
